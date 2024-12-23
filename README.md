@@ -23,10 +23,11 @@ Follow these steps to run the project on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/username/color-palette-generator.git
+git clone https://github.com/ysfhmtky/Color_Palette_Generator.git
+```
 2. Install Dependencies
 Navigate to the project directory and install the necessary dependencies:
-```
+
 ```bash
 Copy code
 cd color-palette-generator
